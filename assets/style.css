@@ -1,0 +1,41 @@
+body{
+    box-sizing: border-box;
+}
+
+
+
+.jumbotron{
+    margin-top: 100px;
+    background-color: rgb(206, 206, 219);
+    height: 200px;
+    width: 50px;
+    border-radius: 10px;
+    
+}
+#img{
+   
+    width: 100%;
+}
+.img{
+    
+    width:100%
+}
+.conteiner-fluid{
+    height: 84px;
+}
+.prova{
+    display: flex;
+    justify-content: flex-end;
+    column-gap: 20px;
+}
+
+  
+    
+
+.card1:hover{
+transform: scale(1.1);
+box-shadow: 0 16px 24px rgb(0, 0, 0,0.2);
+box-shadow: 0 16px 24px rgb(0, 0, 0,0.2);
+box-shadow: 0 16px 24px rgb(0, 0, 0,0.2);
+box-shadow: 0 16px 24px rgb(0, 0, 0,0.2);
+}
